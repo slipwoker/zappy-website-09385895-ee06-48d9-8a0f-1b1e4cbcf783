@@ -1,0 +1,105 @@
+# טריפל ראן — Generative Engine Optimization Map
+
+> A professional online sports shoe store specializing in premium running and athletic footwear from top brands: Saucony, Hoka, and ASICS. The store aims to stand out from the competition with a unique, distinctive look and feel that appeals to serious athletes and running enthusiasts. The brand focuses on performance, quality, and expertise in professional sports footwear.
+
+---
+
+## Pages
+
+### בית
+https://-09385895.zappy5.app
+חנות נעלי הריצה המקצועית לספורטאים שדורשים יותר. גלו את מיטב הדגמים של הוקה, סאקוני ו-ASICS ורוצו רחוק יותר. היכנסו עכשיו לנעל שתשנה לכם את הריצה.
+
+### מעבדת ביצועים
+https://-09385895.zappy5.app/performance-lab
+היכנסו למעבדת הביצועים של טריפל ראן וגלו את ההתאמה המושלמת לנעלי ריצה הוקה לגברים ולנשים. ניתוח מתקדם, ייעוץ מקצועי וטכנולוגיה שמובילה לתוצאות. קבעו פגישה עכשיו.
+
+### מומחיות מותג
+https://-09385895.zappy5.app/brand-expertise
+למה דווקא סאקוני, הוקה ו-ASICS? צללו לעומק המומחיות שלנו בנעלי סאקוני לריצה מקצועית ובטכנולוגיות פורצות הדרך שהופכות כל ריצה לחוויית שיא. בואו להבין את ההבדל.
+
+### צור קשר
+https://-09385895.zappy5.app/contact
+יש לכם שאלה על נעלי ASICS לרצים מקצועיים או שאתם מתלבטים בין דגמים? צוות המומחים של טריפל ראן כאן בשבילכם. השאירו פרטים ונרוץ אליכם חזרה עם התשובה המנצחת.
+
+### Products
+https://-09385895.zappy5.app/products
+המוצרים שלנו - טריפל ראן
+
+### Cart
+https://-09385895.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-09385895.zappy5.app/checkout
+תשלום
+
+### Login
+https://-09385895.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-09385895.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-09385895.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-09385895.zappy5.app/product/:slug
+פרטי המוצר - טריפל ראן
+
+### Category
+https://-09385895.zappy5.app/category/:slug
+מוצרים - טריפל ראן
+
+### תודה על פנייתך
+https://-09385895.zappy5.app/thank-you
+טריפל ראן - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-09385895.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-09385895.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-09385895.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טריפל ראן
+A professional online sports shoe store specializing in premium running and athletic footwear from top brands: Saucony, Hoka, and ASICS. The store aims to stand out from the competition with a unique, distinctive look and feel that appeals to serious athletes and running enthusiasts. The brand focuses on performance, quality, and expertise in professional sports footwear.
+
+## Target Audience
+- רצים וספורטאים מקצועיים ואוהבי ספורט
+- רצים מקצועיים
+- חובבי כושר
+- מאמני ספורט
+
+## Industry
+E-commerce / Sports Footwear
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-09385895.zappy5.app/sitemap.xml
+- Robots: https://-09385895.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-09385895.zappy5.app/llms-full.txt
+- Products (JSON): https://-09385895.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-09385895.zappy5.app/product-feed.xml
