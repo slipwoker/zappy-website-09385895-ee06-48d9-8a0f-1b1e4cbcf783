@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-09385895.zappy5.app
+https://example.com
 חנות נעלי הריצה המקצועית לספורטאים שדורשים יותר. גלו את מיטב הדגמים של הוקה, סאקוני ו-ASICS ורוצו רחוק יותר. היכנסו עכשיו לנעל שתשנה לכם את הריצה.
 
 ### מעבדת ביצועים
-https://-09385895.zappy5.app/performance-lab
+https://example.com/performance-lab
 היכנסו למעבדת הביצועים של טריפל ראן וגלו את ההתאמה המושלמת לנעלי ריצה הוקה לגברים ולנשים. ניתוח מתקדם, ייעוץ מקצועי וטכנולוגיה שמובילה לתוצאות. קבעו פגישה עכשיו.
 
 ### מומחיות מותג
-https://-09385895.zappy5.app/brand-expertise
+https://example.com/brand-expertise
 למה דווקא סאקוני, הוקה ו-ASICS? צללו לעומק המומחיות שלנו בנעלי סאקוני לריצה מקצועית ובטכנולוגיות פורצות הדרך שהופכות כל ריצה לחוויית שיא. בואו להבין את ההבדל.
 
 ### צור קשר
-https://-09385895.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על נעלי ASICS לרצים מקצועיים או שאתם מתלבטים בין דגמים? צוות המומחים של טריפל ראן כאן בשבילכם. השאירו פרטים ונרוץ אליכם חזרה עם התשובה המנצחת.
 
 ### Products
-https://-09385895.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - טריפל ראן
 
 ### Cart
-https://-09385895.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-09385895.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-09385895.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-09385895.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-09385895.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-09385895.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - טריפל ראן
 
 ### Category
-https://-09385895.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - טריפל ראן
 
 ### תודה על פנייתך
-https://-09385895.zappy5.app/thank-you
+https://example.com/thank-you
 טריפל ראן - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-09385895.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-09385895.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-09385895.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ E-commerce / Sports Footwear
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-09385895.zappy5.app/sitemap.xml
-- Robots: https://-09385895.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-09385895.zappy5.app/llms-full.txt
-- Products (JSON): https://-09385895.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-09385895.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
